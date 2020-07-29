@@ -1,0 +1,201 @@
+animal_id,age_upon_outcome,animal_type,breed,age_category
+A684346,14,Cat,Domestic Shorthair Mix,junior
+A666430,365,Dog,Beagle Mix,junior
+A675708,365,Dog,Pit Bull,junior
+A680386,3285,Dog,Miniature Schnauzer Mix,adult
+A683115,155,Other,Bat Mix,junior
+A664462,124,Dog,Leonberger Mix,junior
+A693700,365,Other,Squirrel Mix,junior
+A692618,1095,Dog,Chihuahua Shorthair Mix,adult
+A685067,31,Cat,Domestic Shorthair Mix,junior
+A678580,93,Cat,Domestic Shorthair Mix,junior
+A675405,365,Cat,Domestic Medium Hair Mix,junior
+A673652,730,Dog,Papillon/Border Collie,adult
+A677679,62,Dog,Chihuahua Shorthair/Pomeranian,junior
+A640655,1460,Dog,Miniature Schnauzer/Miniature Poodle,adult
+A690350,2920,Dog,Labrador Retriever Mix,adult
+A680396,730,Dog,Rat Terrier Mix,adult
+A674298,365,Dog,Pit Bull Mix,junior
+A670420,21,Cat,Domestic Shorthair Mix,junior
+A692378,62,Dog,German Shepherd/Labrador Retriever,junior
+A684460,62,Cat,Domestic Shorthair Mix,junior
+A673952,248,Cat,Domestic Shorthair Mix,junior
+A686497,155,Cat,Domestic Shorthair Mix,junior
+A666660,730,Dog,Beagle Mix,adult
+A687965,62,Cat,Domestic Shorthair Mix,junior
+A668547,365,Cat,Domestic Medium Hair Mix,junior
+A689952,365,Dog,Mastiff Mix,junior
+A669621,124,Dog,Plott Hound Mix,junior
+A667311,62,Dog,Labrador Retriever Mix,junior
+A690699,124,Dog,Chihuahua Shorthair Mix,junior
+A682393,62,Cat,Siamese,junior
+A681039,14,Cat,Domestic Shorthair Mix,junior
+A682532,62,Cat,Domestic Shorthair Mix,junior
+A669918,93,Dog,Labrador Retriever Mix,junior
+A683779,93,Cat,Domestic Shorthair Mix,junior
+A678098,4380,Dog,Labrador Retriever Mix,adult
+A686829,21,Cat,Domestic Shorthair Mix,junior
+A677038,730,Dog,Chihuahua Shorthair Mix,adult
+A665344,1460,Dog,Chihuahua Shorthair Mix,adult
+A617061,1095,Cat,Domestic Medium Hair Mix,adult
+A675394,365,Dog,Miniature Pinscher Mix,junior
+A683068,365,Other,Bat,junior
+A682085,1460,Cat,Russian Blue Mix,adult
+A673439,93,Dog,Cardigan Welsh Corgi/English Setter,junior
+A692877,730,Cat,Domestic Shorthair Mix,adult
+A683856,2555,Cat,Russian Blue Mix,adult
+A647382,1095,Dog,Border Collie Mix,adult
+A683517,31,Cat,Domestic Shorthair Mix,junior
+A660098,730,Dog,Pit Bull Mix,adult
+A693005,365,Dog,Boxer Mix,junior
+A688811,365,Cat,Domestic Medium Hair Mix,junior
+A680225,730,Cat,Domestic Shorthair Mix,adult
+A662912,62,Cat,Domestic Shorthair Mix,junior
+A688352,1825,Dog,Parson Russell Terrier Mix,adult
+A545127,2190,Dog,Pit Bull Mix,adult
+A661023,1095,Dog,Miniature Poodle Mix,adult
+A673648,1095,Dog,Pit Bull Mix,adult
+A674466,5,Dog,Pit Bull Mix,junior
+A637480,730,Dog,Miniature Schnauzer Mix,adult
+A677479,365,Dog,Chihuahua Shorthair Mix,junior
+A664116,310,Dog,Australian Shepherd/Australian Cattle Dog,junior
+A677218,28,Cat,Domestic Shorthair Mix,junior
+A691708,93,Cat,Domestic Shorthair Mix,junior
+A688079,3650,Dog,Labrador Retriever Mix,adult
+A676606,124,Dog,Basenji/Chihuahua Longhair,junior
+A666831,365,Dog,Chihuahua Shorthair Mix,junior
+A683939,155,Dog,Pit Bull Mix,junior
+A619328,730,Dog,Labrador Retriever,adult
+A693212,365,Other,Bat Mix,junior
+A682652,62,Dog,Siberian Husky/German Shepherd,junior
+A680208,28,Other,Bat,junior
+A670066,365,Cat,Domestic Shorthair Mix,junior
+A667511,62,Cat,Domestic Medium Hair Mix,junior
+A674267,1095,Dog,Chihuahua Shorthair Mix,adult
+A670730,28,Dog,German Shepherd/Boxer,junior
+A670656,2190,Cat,Domestic Shorthair Mix,adult
+A669064,730,Dog,Labrador Retriever/German Shepherd,adult
+A680147,2,Dog,Labrador Retriever Mix,junior
+A688674,730,Cat,Domestic Shorthair Mix,adult
+A677633,14,Cat,Domestic Shorthair Mix,junior
+A667384,62,Dog,Pit Bull Mix,junior
+A688532,21,Cat,Domestic Shorthair Mix,junior
+A687769,62,Cat,Domestic Shorthair Mix,junior
+A676666,1095,Other,Raccoon Mix,adult
+A678060,93,Cat,Domestic Shorthair Mix,junior
+A671481,31,Dog,Chihuahua Shorthair Mix,junior
+A674053,1095,Dog,German Shepherd/Chow Chow,adult
+A688036,730,Cat,Domestic Shorthair Mix,adult
+A689091,62,Dog,Pit Bull/Labrador Retriever,junior
+A663623,124,Cat,Domestic Shorthair Mix,junior
+A676932,3650,Dog,Yorkshire Terrier Mix,adult
+A693547,186,Dog,Rat Terrier Mix,junior
+A663592,93,Dog,Beagle/Chihuahua Longhair,junior
+A685713,365,Other,Armadillo Mix,junior
+A675014,365,Other,Bat,junior
+A624436,1095,Dog,Parson Russell Terrier/Chihuahua Shorthair,adult
+A562649,5110,Dog,Border Collie Mix,adult
+A673137,730,Other,Rat,adult
+A688904,365,Dog,German Shepherd Mix,junior
+A686842,730,Dog,Staffordshire,adult
+A691706,62,Cat,Domestic Longhair Mix,junior
+A668644,365,Dog,Chihuahua Shorthair Mix,junior
+A685249,2190,Dog,Catahoula/Labrador Retriever,adult
+A667028,365,Cat,Domestic Shorthair Mix,junior
+A688773,1825,Dog,Shih Tzu Mix,adult
+A675362,62,Dog,Labrador Retriever Mix,junior
+A672190,730,Cat,Domestic Shorthair Mix,adult
+A687138,62,Cat,Domestic Shorthair Mix,junior
+A662261,155,Cat,Domestic Medium Hair Mix,junior
+A670525,1825,Dog,Dachshund Mix,adult
+A646578,1460,Dog,Labrador Retriever Mix,adult
+A665799,93,Cat,Domestic Shorthair Mix,junior
+A673438,730,Cat,Domestic Shorthair Mix,adult
+A669140,31,Cat,Domestic Shorthair Mix,junior
+A552202,3285,Dog,Pit Bull Mix,adult
+A675373,730,Dog,American Bulldog Mix,adult
+A687494,3285,Dog,Chihuahua Shorthair Mix,adult
+A669576,2920,Cat,Domestic Shorthair Mix,adult
+A673284,186,Other,Hamster Mix,junior
+A684123,248,Dog,Border Collie Mix,junior
+A681482,365,Dog,Chihuahua Shorthair/Dachshund,junior
+A685582,21,Cat,Domestic Shorthair Mix,junior
+A664633,28,Other,Raccoon,junior
+A681449,1460,Dog,Dogo Argentino Mix,adult
+A684998,3650,Cat,Domestic Shorthair Mix,adult
+A664486,62,Cat,Domestic Shorthair Mix,junior
+A689192,21,Cat,Domestic Shorthair Mix,junior
+A693898,365,Dog,Flat Coat Retriever Mix,junior
+A665019,2920,Cat,Domestic Shorthair Mix,adult
+A684110,28,Cat,Domestic Shorthair Mix,junior
+A665719,62,Dog,Chihuahua Longhair Mix,junior
+A677014,1095,Cat,Domestic Shorthair Mix,adult
+A672839,365,Dog,Dachshund Mix,junior
+A677959,93,Cat,Domestic Shorthair Mix,junior
+A667121,1095,Dog,Scottish Terrier Mix,adult
+A680473,62,Cat,Domestic Shorthair Mix,junior
+A690900,62,Cat,Domestic Shorthair Mix,junior
+A650344,341,Dog,Boxer/Pit Bull,junior
+A674808,248,Dog,Pit Bull Mix,junior
+A675177,365,Dog,Labrador Retriever Mix,junior
+A664437,155,Cat,Domestic Shorthair Mix,junior
+A580635,1460,Dog,Boxer/Labrador Retriever,adult
+A683017,310,Dog,Chihuahua Shorthair/Cardigan Welsh Corgi,junior
+A691498,730,Dog,Australian Shepherd Mix,adult
+A688607,365,Dog,Labrador Retriever,junior
+A665667,730,Dog,Shiba Inu Mix,adult
+A678589,62,Dog,German Shepherd/Pembroke Welsh Corgi,junior
+A690027,1460,Dog,Boxer Mix,adult
+A683956,1095,Cat,Domestic Shorthair Mix,adult
+A664490,62,Dog,Labrador Retriever Mix,junior
+A690029,1095,Cat,Domestic Shorthair Mix,adult
+A666941,730,Dog,Pit Bull Mix,adult
+A678260,5475,Cat,Domestic Shorthair Mix,adult
+A679240,31,Dog,Beagle/Pug,junior
+A672918,365,Cat,Domestic Shorthair Mix,junior
+A688771,1095,Other,Bat Mix,adult
+A681990,21,Cat,Domestic Shorthair Mix,junior
+A683735,28,Cat,Domestic Shorthair Mix,junior
+A515757,3285,Dog,Labrador Retriever,adult
+A685607,14,Cat,Siamese Mix,junior
+A592428,2555,Dog,Brittany,adult
+A666001,1825,Dog,Australian Shepherd Mix,adult
+A679736,310,Cat,Domestic Shorthair Mix,junior
+A671106,310,Cat,Domestic Longhair Mix,junior
+A688062,155,Dog,Labrador Retriever Mix,junior
+A678573,341,Cat,Domestic Shorthair Mix,junior
+A687004,1095,Dog,Pit Bull Mix,adult
+A669193,365,Dog,Pit Bull Mix,junior
+A661614,155,Dog,Chihuahua Shorthair Mix,junior
+A668531,62,Dog,Australian Cattle Dog Mix,junior
+A684739,217,Dog,Australian Shepherd Mix,junior
+A626164,365,Cat,Domestic Shorthair Mix,junior
+A663020,62,Dog,Chihuahua Shorthair Mix,junior
+A669753,365,Cat,Domestic Shorthair Mix,junior
+A687770,62,Cat,Domestic Shorthair Mix,junior
+A580685,1460,Dog,Pit Bull Mix,adult
+A685766,62,Dog,Pointer/Labrador Retriever,junior
+A666264,62,Dog,Australian Cattle Dog Mix,junior
+A683813,1460,Dog,Chihuahua Shorthair Mix,adult
+A688206,1095,Cat,Domestic Longhair Mix,adult
+A667941,186,Dog,Labrador Retriever Mix,junior
+A667359,2920,Cat,Domestic Shorthair Mix,adult
+A689369,1460,Dog,Pit Bull Mix,adult
+A688884,217,Dog,Bull Terrier Mix,junior
+A677215,365,Dog,Labrador Retriever Mix,junior
+A625324,1095,Dog,Pit Bull Mix,adult
+A675626,124,Dog,Whippet Mix,junior
+A686388,186,Cat,Domestic Shorthair Mix,junior
+A675315,1095,Dog,Dachshund Wirehair Mix,adult
+A684824,31,Cat,Domestic Shorthair Mix,junior
+A672456,730,Dog,German Shorthair Pointer Mix,adult
+A686978,155,Cat,Siamese Mix,junior
+A672082,730,Dog,Pit Bull Mix,adult
+A680663,62,Cat,Domestic Shorthair Mix,junior
+A677147,3285,Dog,Beagle Mix,adult
+A681042,14,Cat,Domestic Shorthair Mix,junior
+A680414,62,Cat,Domestic Shorthair Mix,junior
+A677404,730,Dog,Pembroke Welsh Corgi/Australian Cattle Dog,adult
+A673022,365,Other,Bat,junior
+A683224,31,Cat,Domestic Shorthair Mix,junior
+A671082,124,Dog,Chihuahua Shorthair/Dachshund,junior

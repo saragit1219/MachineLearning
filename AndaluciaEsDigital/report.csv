@@ -1,0 +1,11 @@
+,animal_id,age_upon_outcome,animal_type,breed,age_category,color,date_of_birth,name,sex_upon_outcome
+30,A681039,14,Cat,Domestic Shorthair Mix,junior,Black,2014-05-27T00:00:00,,Unknown
+35,A686829,21,Cat,Domestic Shorthair Mix,junior,Black,2014-08-05T00:00:00,,Intact Male
+156,A683735,28,Cat,Domestic Shorthair Mix,junior,Black,2014-06-23T00:00:00,,Intact Female
+171,A663020,62,Dog,Chihuahua Shorthair Mix,junior,Black,2013-07-30T00:00:00,*June,Spayed Female
+87,A689091,62,Dog,Pit Bull/Labrador Retriever,junior,Black,2014-08-04T00:00:00,*Reese,Spayed Female
+148,A664490,62,Dog,Labrador Retriever Mix,junior,Black,2013-08-28T00:00:00,*Nikko,Neutered Male
+12,A677679,62,Dog,Chihuahua Shorthair/Pomeranian,junior,Black,2014-03-07T00:00:00,Kash,Neutered Male
+33,A683779,93,Cat,Domestic Shorthair Mix,junior,Black,2014-04-15T00:00:00,,Spayed Female
+88,A663623,124,Cat,Domestic Shorthair Mix,junior,Black,2013-06-06T00:00:00,*Monkey,Neutered Male
+185,A675626,124,Dog,Whippet Mix,junior,Black,2013-11-30T00:00:00,,Neutered Male
